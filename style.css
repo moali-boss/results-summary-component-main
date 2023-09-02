@@ -179,7 +179,7 @@ button.continue-btn:hover {
 
 @media screen and (min-width: 768px) {
     #component {
-        width: 70%;
+        width: 40%;
         padding: 0;
         margin: 200px auto;
         display: flex;
